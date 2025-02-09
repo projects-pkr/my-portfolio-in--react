@@ -1,3 +1,4 @@
+import React from "react";
 import { Box, Typography, LinearProgress, Avatar } from "@mui/material";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import CustomButton from "../CustomComponents/Button";
